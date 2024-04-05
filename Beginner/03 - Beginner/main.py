@@ -4,7 +4,6 @@
 # How to calculate sum of numbers from 1 to n
 
 n = int(input("Enter a number: "))
-
 sum = 0
 
 for i in range(1, n + 1):
@@ -13,4 +12,4 @@ for i in range(1, n + 1):
 print("Sum of numbers: ", sum)
 
 # Input: Enter a number: 3
-# Output: Sum of numbers:  6
+# Output: Sum of numbers: 6
